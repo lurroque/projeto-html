@@ -21,6 +21,7 @@ div h1 {
     font-size: 60px;
     padding: 25px;
     border-bottom: 10px solid black;
+    text-transform: uppercase;
 }
 
 h2 {
@@ -52,6 +53,7 @@ aside {
     background-color: #3C1D3D;
     color: #F2FFFC;
     text-align: center;
+    text-transform: lowercase;
 }
 
 aside a {
